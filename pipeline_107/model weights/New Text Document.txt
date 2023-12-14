@@ -1,0 +1,7 @@
+dnstream: 
+*batch size: 128   learning rate: 0.0001   med size: 256   sample length: 1100   test_set_loss: 0.596625030040741
+batch size: 256   learning rate: 0.0001   med size: 512   sample length: 1100   test_set_loss: 0.5924346446990967
+
+upstream:
+*batch size: 128   learning rate: 0.0001   med size: 256   sample length: 1100   test_set_loss: 0.5459794998168945
+batch size: 512   learning rate: 0.0001   med size: 1024   sample length: 800   test_set_loss: 0.5414175391197205

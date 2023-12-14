@@ -1,0 +1,1 @@
+{"up_id": 71, "down_id": 72, "input_len": 1000, "pred_interval": 100, "fs": 100, "coef": 1, "med_size_up": 256, "med_size_dn": 256, "outputsize_up": 1, "outputsize_dn": 1, "weight_path_up": "./model_weights/upstream/best_model.ckpt", "weight_path_dn": "./model_weights/dnstream/best_model.ckpt"}
